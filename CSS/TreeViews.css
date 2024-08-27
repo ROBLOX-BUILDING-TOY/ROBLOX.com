@@ -1,0 +1,47 @@
+.foo {} /* W3C CSS validator likes CSS files to start with a class rather than a comment. Soooooo.... */
+
+/* This style sheet is intended to contain RARELY CHANGED rules used when the TreeView control adapter is enabled. */
+/* Empty rules are provided merely as a convenience for your future use or experimentation. */
+
+div.AspNet-TreeView
+{
+    margin: 0;
+    padding: 0;
+}
+
+div.AspNet-TreeView ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.AspNet-TreeView-Show
+{
+}
+
+.AspNet-TreeView-Hide
+{
+    display:none;
+}
+
+/*
+     FILE ARCHIVED ON 12:02:51 Feb 23, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:28:39 Jul 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.739
+  exclusion.robots: 0.037
+  exclusion.robots.policy: 0.021
+  esindex: 0.016
+  cdx.remote: 177.773
+  LoadShardBlock: 223.121 (3)
+  PetaboxLoader3.datanode: 231.613 (4)
+  load_resource: 51.357
+  PetaboxLoader3.resolve: 30.524
+*/

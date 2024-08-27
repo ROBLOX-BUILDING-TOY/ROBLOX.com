@@ -1,0 +1,73 @@
+.foo {} /* W3C CSS validator likes CSS files to start with a class rather than a comment. Soooooo.... */
+
+/* This style sheet is intended to contain RARELY CHANGED rules used when the DataList control adapter is enabled. */
+/* Empty rules are provided merely as a convenience for your future use or experimentation. */
+
+.AspNet-DataList
+{
+}
+
+.AspNet-DataList table
+{
+}
+
+.AspNet-DataList table caption
+{
+}
+
+.AspNet-DataList table thead
+{
+}
+
+.AspNet-DataList table thead tr
+{
+}
+
+.AspNet-DataList table thead tr th
+{
+}
+
+.AspNet-DataList table tfoot
+{
+}
+
+.AspNet-DataList table tfoot tr
+{
+}
+
+.AspNet-DataList table tfoot tr td
+{
+}
+
+.AspNet-DataList table tbody
+{
+}
+
+.AspNet-DataList table tbody tr
+{
+}
+
+.AspNet-DataList table tbody tr td
+{
+}
+
+/*
+     FILE ARCHIVED ON 12:02:47 Feb 23, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:28:38 Jul 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.537
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.015
+  esindex: 0.013
+  cdx.remote: 12.592
+  LoadShardBlock: 203.497 (3)
+  PetaboxLoader3.datanode: 168.284 (4)
+  PetaboxLoader3.resolve: 46.167
+  load_resource: 14.222
+*/
